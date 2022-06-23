@@ -35,9 +35,9 @@ function getCityWeather(req, res, next) {
                 }
           
                 })
-                .catch((error) => {
-                    console.error(error)
-                })
+            })
+            .catch((error) => {
+                console.error(error)
             })
         })
     prom.then(() => {
