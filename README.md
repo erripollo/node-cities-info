@@ -1,4 +1,4 @@
-# NODE-CITIES_INFO
+# NODE-CITIES-INFO
 
 ## Quick Start
 
@@ -27,11 +27,11 @@ npm install
 
 Rename .env.example in .env, and compile with your credential so it looks like this
 
-'''shell
+```shell
 PORT = 3000
 API_WEATHER_KEY = <YOUR_API_KEY> 
 API_YELP_KEY = <YOUR_API_KEY> 
-'''
+```
 ###  API_WEATHER_KEY reference https://openweathermap.org/api
 ###  API_YELP_KEY reference https://www.yelp.com/developers/documentation/v3/business
 
