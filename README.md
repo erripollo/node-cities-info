@@ -47,6 +47,6 @@ npm run dev
 * Open your browser to [http://localhost:3000](http://localhost:3000)
 * Invoke the `/api/cities-info` endpoint 
   ```shell
-  curl http://localhost:3000//api/cities-info
+  curl http://localhost:3000/api/cities-info
   ```
 
